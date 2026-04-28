@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Microsoft Azure, VMware or VirtiualBox
 - Item 2
 - Item 3
 - Item 4
@@ -29,10 +29,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img<img width="1485" height="434" alt="Screenshot 2026-04-27 214932" src="https://github.com/user-attachments/assets/0519ad9a-915e-43e7-a799-d65f0de3ed6e" />
+/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Microsoft Azure users- First step is you must make a resource group first beofre making a virtual Machine(VM)</p>
 </p>
 <br />
 
