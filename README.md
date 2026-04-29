@@ -27,14 +27,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 5
 
 <h2>Installation Steps</h2>
-<p><img width="1534" height="845" alt="image" src="https://github.com/user-attachments/assets/1db8f54d-befb-439e-a522-bc2e5217b31f" />
+<p><img width="1530" height="842" alt="image" src="https://github.com/user-attachments/assets/42044786-14f1-43dd-933d-c41a462faa4b" />
 <p>Microsoft Azure users- First step is you must make a resource group first beofre making a virtual Machine(VM)</p>
-<p>
 <img<img width="1528" height="840" alt="image" src="https://github.com/user-attachments/assets/9122a5fa-1bf7-4d6e-820c-75db1dc4b20e" />
-/>
-<p> After creating your resource group 
-</p>
-<br />
+<p> After creating your resource group </p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
