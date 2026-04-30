@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 <p><img width="1516" height="881" alt="image" src="https://github.com/user-attachments/assets/473f4d47-f150-49e5-bb29-4e40e0773b79" />
-<p>Microsoft Azure users- First step is you must make a resource group first beofre making a virtual Machine(VM)</p>
+<p>Microsoft Azure users- First step is you must make a resource group first before making a virtual Machine(VM)</p>
 <p><img width="1528" height="840" alt="image" src="https://github.com/user-attachments/assets/9122a5fa-1bf7-4d6e-820c-75db1dc4b20e" />
 <p> After creating your resource group, you can go ahead and make your VM and make sure u put the virtual machine inisde the resource group you just created.
 Once your succesfully created your user name and password for your Virtual machine go ahead and log in.</p>
