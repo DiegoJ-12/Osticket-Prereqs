@@ -21,14 +21,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Microsoft Azure, VMware or VirtiualBox
-- Item 2
+- XAMPP
 - Item 3
 - Item 4
 - Item 5
 
 <h2>Installation Steps</h2>
-<p><img width="1516" height="881" alt="image" src="https://github.com/user-attachments/assets/473f4d47-f150-49e5-bb29-4e40e0773b79" />
-<p> For Microsoft Azure users you have to create a resource group before creating a Virtial Machine(VM). As shown in the picture go ahead and seach for "resource groups, click on "create".</p>
+<p><<img width="1525" height="974" alt="Screenshot 2026-05-01 010925" src="https://github.com/user-attachments/assets/ff161ee5-f127-4bbd-a75e-c34ceb5b7ffe" />
+<p> Step 1: Go to the official XAMPP download page. https://www.apachefriends.org/download.html and download the latest version which will be "PHP 8.2.12"
+(XAMPP is a free software package thats lets you run a local web server on your computer)</p>
 <p><img <img width="1535" height="882" alt="image" src="https://github.com/user-attachments/assets/53aeae00-636d-4447-a47b-7deaf9d4bbde" />
  <p>When creating your resource group here you can name your resource group, and the pick the region.(Use the same region for the VM) </p> 
 <p><img width="1535" height="883" alt="Screenshot 2026-04-29 195812" src="https://github.com/user-attachments/assets/7dd16f71-b95d-4273-bfbd-cb840a3efe46" />
