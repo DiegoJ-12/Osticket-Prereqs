@@ -32,8 +32,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 (XAMPP is a free software package thats lets you run a local web server on your computer)</p>
 <p><img width="1413" height="994" alt="Screenshot 2026-05-01 011931" src="https://github.com/user-attachments/assets/86946050-7ec2-450f-8d57-df2d0d250489" />
  <p> Step 2: Run the installer and install application. After running the installer it will automatically create a folder in the c drive, set up screen will pop up with services we will select all. </p> 
-<p><img width="1535" height="883" alt="Screenshot 2026-04-29 195812" src="https://github.com/user-attachments/assets/7dd16f71-b95d-4273-bfbd-cb840a3efe46" />
-<p> After creating your resource group, you can create the virtual machine. Click search and search for "virtual machine">"create". When making your VM under on "resource group" select the resource group you just created, and use the same region you selected for the resource group as shown in the picture.  </p>
+<p><img width="958" height="589" alt="Screenshot 2026-04-30 214250" src="https://github.com/user-attachments/assets/b470ae64-59c1-49b9-ac54-a0ab325b5c05" />
+<p> After "setup" intallation screen control panel will pop up after u clomplete the installation, make sure to start "Apache and MYSQL" severs </p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
