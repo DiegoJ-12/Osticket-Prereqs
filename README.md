@@ -8,15 +8,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+<h2>Environments and Technologies Used:</h2>
+- Operating System: Windows 10/11
+- Server Stack: XAMPP(Apache, MySQL, PHP)
+- Ticketing System: osTicket
+- Database Tool: phpMyAdmin
+- Web tools: Chrome Web Browser
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
