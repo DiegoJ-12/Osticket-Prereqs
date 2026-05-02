@@ -9,6 +9,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <h2>Environments and Technologies Used:</h2>
+
 - Operating System: Windows 10/11
 - Server Stack: XAMPP(Apache, MySQL, PHP)
 - Ticketing System: osTicket
@@ -17,15 +18,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
+- Windows 11
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure, VMware or VirtiualBox
-- XAMPP
-- Item 3
-- Item 4
-- Item 5
+- Windows 10 or Windows 11
+- XAMPP(Apache, PHP, MySQL)
+- osTicket installation
+- Web Browser
 
 <h2>Installation Steps</h2>
 <p><<img width="1525" height="974" alt="Screenshot 2026-05-01 010925" src="https://github.com/user-attachments/assets/ff161ee5-f127-4bbd-a75e-c34ceb5b7ffe" />
