@@ -37,7 +37,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p><img width="1529" height="1018" alt="image" src="https://github.com/user-attachments/assets/184a0083-04ac-404e-a208-4588971d9435" />
 <p> Step 4: Go to the official osTicket download page and download the latest version(v1.18.3) https://osticket.com/download/
 <p> <img width="1515" height="895" alt="image" src="https://github.com/user-attachments/assets/3ee18782-e15e-48bf-a84e-ce719d147dc6" />
-<p>Step 5: Extract all file into C:\xampp\htdocs<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p>Step 5: Delete the default files inside C:\xampp\htdocs and Extract all file into C:\xampp\htdocs.<p>
+<p><img <img width="1534" height="1017" alt="image" src="https://github.com/user-attachments/assets/d9c5e75c-b49f-449e-869b-7abd77bbf382" />
+<p> Step 6: Open OsTicket, you can open it by searching "localhost" > "upload" or on the control panel you can click "Apache" > "Admin".</p>
