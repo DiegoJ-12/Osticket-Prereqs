@@ -41,4 +41,4 @@ This projects covers the necessary prerequisites, including installing and confi
 <p> <img width="1515" height="895" alt="image" src="https://github.com/user-attachments/assets/3ee18782-e15e-48bf-a84e-ce719d147dc6" />
 <p>Step 5: Delete the default files inside C:\xampp\htdocs and open the download files, extract all files into C:\xampp\htdocs.<p>
 <p><img <img width="1534" height="1017" alt="image" src="https://github.com/user-attachments/assets/d9c5e75c-b49f-449e-869b-7abd77bbf382" />
-<p> Step 6: Open OsTicket, you can open it by searching "localhost" on your webrowser and click on "upload" or on the control panel you can click the "Admin button for "Apache" > "Admin".</p>
+<p> Step 6: Open OsTicket, you can open it by searching "localhost" on your webrowser and click on "upload" or on the control panel you can click the "Admin button for "Apache".</p>
