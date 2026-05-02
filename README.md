@@ -4,7 +4,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+Project Purpose: This Project demonstrates the initial setup and preparation required to deploy a osTicket system in a Windows enviroment using XAMPP.
+This projects covers the necessary prerequisites, including installing and configuring the local server stack (apche, PHP, MySQL) and preparing it for the osTicket Installation.<br />
 
 
 
@@ -22,10 +23,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Windows 10 or Windows 11
-- XAMPP(Apache, PHP, MySQL)
-- osTicket installation
-- Web Browser
+- Windows 10/11 operating system
+- XAMPP installed (Apache, PHP, MySQL)
+- osTicket installation package(.zip.file)
+- Web Browser(Chrome or Edge)
 
 <h2>Installation Steps</h2>
 <p><<img width="1525" height="974" alt="Screenshot 2026-05-01 010925" src="https://github.com/user-attachments/assets/ff161ee5-f127-4bbd-a75e-c34ceb5b7ffe" />
