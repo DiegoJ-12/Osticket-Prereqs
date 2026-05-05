@@ -13,6 +13,7 @@ This projects covers the necessary prerequisites, including installing and confi
 This lab uses a local Windows environment to deploy and configure the osTicket help desk system.
 
 <h2>Enviroment Setup</h2>
+
 - Windows 10/11(Local Machine or Virtual Machine)
 - XAMPP(Apache & MySQL)
 - Web brower(Google Chrome or Microsoft Edge)
