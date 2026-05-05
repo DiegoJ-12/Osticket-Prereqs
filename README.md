@@ -24,6 +24,7 @@ The purpose of this lab is to build and configure the foundational environment r
 - Apache Web Server
 
 <h2>Tools used </h2>
+
 - XAMPP control panel
 - phpMyAdmin
 - File Explorer
