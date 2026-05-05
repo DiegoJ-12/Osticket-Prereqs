@@ -9,24 +9,24 @@ This projects covers the necessary prerequisites, including installing and confi
 
 
 
-<h2>Environments and Technologies Used:</h2>
+<h2>Lab Enviroment and Technologies Used:</h2>
 
-- Operating System: Windows 10/11
-- Server Stack: XAMPP(Apache, MySQL, PHP)
-- Ticketing System: osTicket
-- Database Tool: phpMyAdmin
-- Web tools: Chrome Web Browser
+Enviroment Setup
+- Windows 10/11(Local Machine or Virtual Machine)
+- XAMPP(Apache & MySQL)
+- Web brower(Google Chrome or Microsoft Edge)
 
-<h2>Operating Systems Used </h2>
+<h2>Software Requirements </h2>
+- osTicket v1.18.3
+- PHP (bundle with XAMPP)
+- MySQL(via XAMPP phpMyAdmin)
+- Apache Web Server(included in XAMPP) 
 
-- Windows 11
-
-<h2>List of Prerequisites</h2>
-
-- Windows 10/11 operating system
-- XAMPP installed (Apache, PHP, MySQL)
-- osTicket installation package(.zip.file)
-- Web Browser(Chrome or Edge)
+<h2>Tools Used </h2>
+- XAMPP Control Panel
+- phpMyAdmin
+- File Explorer
+- Web browser for installation and testing
 
 <h2>Installation Steps</h2>
 <p><img width="1525" height="974" alt="Screenshot 2026-05-01 010925" src="https://github.com/user-attachments/assets/ff161ee5-f127-4bbd-a75e-c34ceb5b7ffe" />
