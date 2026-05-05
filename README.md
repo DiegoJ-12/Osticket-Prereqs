@@ -43,17 +43,17 @@ This projects covers the necessary prerequisites, including installing and confi
 <p><img <img width="1534" height="1017" alt="image" src="https://github.com/user-attachments/assets/d9c5e75c-b49f-449e-869b-7abd77bbf382" />
 <p> Step 6: Open OsTicket, you can open it by searching "localhost" on your webrowser and click on "upload" or on the control panel you can click the "admin"button for apache.</p>
 <p><img width="1419" height="1022" alt="image" src="https://github.com/user-attachments/assets/666cdd2a-6ba4-4e5d-9166-bf8a01eca8f4" />
-<p> Final step: Enable the required extensions for osTicket. To enable these extensions go to the XAMPP control panel click on apache "config" and scroll down and open "PHP.INI". From here enable the required extensions ("gd", "imap", "intl" , "opcache") to enable, remove the ;(semicolon) in front of each extension line, then save the file and restart both apache and MySQL services from the XAMPP control panel.
+<p> Step 7: Enable the required extensions for osTicket. To enable these extensions go to the XAMPP control panel click on apache "config" and scroll down and open "PHP.INI". From here enable the required extensions ("gd", "imap", "intl" , "opcache") to enable, remove the ;(semicolon) in front of each extension line, then save the file and restart both apache and MySQL services from the XAMPP control panel.
 <p><img width="1221" height="863" alt="image" src="https://github.com/user-attachments/assets/029d37d7-6a86-4d52-95db-3f67b9cef544" />
-<p>Step 1: Rename the osTicket Configuration File. Navigate to This PC -> Local Disk (C:) -> xampp -> htdocs -> upload -> include, inside the "include folder, locate the file name "os-sampleonfig.php". Right click it and rename it to "ost-config.php".<p>
+<p> Step 8: Rename the osTicket Configuration File. Navigate to This PC -> Local Disk (C:) -> xampp -> htdocs -> upload -> include, inside the "include folder, locate the file name "os-sampleonfig.php". Right click it and rename it to "ost-config.php".<p>
 <p><img width="1535" height="1023" alt="image" src="https://github.com/user-attachments/assets/55fdf317-456c-4a11-ad5b-69556b3c92d1" />
-<p>Step 2: Setup account details for "system settings" and "admin".
+<p> Step 9: Setup account details for "system settings" and "admin".
 <p><img width="1535" height="1018" alt="image" src="https://github.com/user-attachments/assets/d3c35e45-1ebe-402d-9a26-c82a2b823ceb" />
-<p>Step 3: Create the database, by opening phpMyAdmin through the XAMPP Control Panel (click the MySQL Admin button), then go to the Databases tab, enter osTicket as the database name, and click Create.
+<p> Step 10: Create the database, by opening phpMyAdmin through the XAMPP Control Panel (click the MySQL Admin button), then go to the Databases tab, enter osTicket as the database name, and click Create.
 <p><img width="1532" height="1021" alt="image" src="https://github.com/user-attachments/assets/c688e9e5-5ffa-40f8-9657-1af42668dcd0" />
-<p>Step 4: Create a database user by going to phpMyAdmin → User accounts → Add user account, then return to the osTicket setup page and enter those credentials under Database Settings.
+<p> Step 11: Create a database user by going to phpMyAdmin → User accounts → Add user account, then return to the osTicket setup page and enter those credentials under Database Settings.
 <img width="1215" height="837" alt="image" src="https://github.com/user-attachments/assets/2e373026-609f-4cf9-bb90-f87b87efba5a" />
-<p>Step 5: Change the permission of the "ost-config.php" file to read only for security purposes, navigate to This PC -> Local Disk(C:) -> xampp -> htdocs -> upload -> include 
+<p> Step 12: Change the permission of the "ost-config.php" file to read only for security purposes, navigate to This PC -> Local Disk(C:) -> xampp -> htdocs -> upload -> include 
 right click on "os-config.php" -> Properties and on attributes change it to read-only. </p>
 <p> <img width="1529" height="1021" alt="image" src="https://github.com/user-attachments/assets/8d5e3004-e1fe-4f00-bfcf-95844cff5c8e" />
 Final step: Use your admin credentials to log in to the osTicket Staff Control Panel at(http://localhost/upload/scp/login.php).
