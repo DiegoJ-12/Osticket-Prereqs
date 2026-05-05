@@ -1,36 +1,33 @@
-
+#osTicket Prerequisites and Installation Lab(v1.18.3)
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-Project Purpose: This Project demonstrates the initial setup and preparation required to deploy a osTicket system in a Windows enviroment using XAMPP.
-This projects covers the necessary prerequisites, including installing and configuring the local server stack (apche, PHP, MySQL) and preparing it for the osTicket Installation.<br />
+<h1>Project Overview</h1>
+This lab demonstrates the preparation and setup of the required environment for installing osTicket v1.18.3 in a local XAMPP web server. The goal of this project is to simulate a real world IT help desk environment by configuring all prerequisitied neede for a successful osTicket deployment.
 
 
-
-<h2>Lab Enviroment and Technologies Used:</h2>
-This lab uses a local Windows environment to deploy and configure the osTicket help desk system.
+<h2>Purpose of the Lab</h2>
+The purpose of this lab is to build and configure the foundational environment required for osTicket. This includes setting up a local web server, database services, and required software dependencies to support a functional help desk ticketing system.
 
 <h2>Enviroment Setup</h2>
 
 - Windows 10/11(Local Machine or Virtual Machine)
 - XAMPP(Apache & MySQL)
-- Web brower(Google Chrome or Microsoft Edge)
+- Web browser(Google Chrome or Microsoft Edge)
 
 <h2>Software Requirements </h2>
 
 - osTicket v1.18.3
-- PHP (bundle with XAMPP)
-- MySQL(via XAMPP phpMyAdmin)
-- Apache Web Server(included in XAMPP) 
+- PHP
+- MySQL
+- Apache Web Server
 
-<h2>Tools Used </h2>
-
-- XAMPP Control Panel
+<h2>Tools used </h2>
+- XAMPP control panel
 - phpMyAdmin
 - File Explorer
-- Web browser for installation and testing
+- Web browser
 
 <h2>Installation Steps</h2>
 <p><img width="1525" height="974" alt="Screenshot 2026-05-01 010925" src="https://github.com/user-attachments/assets/ff161ee5-f127-4bbd-a75e-c34ceb5b7ffe" />
