@@ -1,9 +1,9 @@
-osTicket Prerequisites and Installation Lab(v1.18.3)
+
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>Project Overview</h1>
+<h1>osTicket Prerequisites and Installation Lab(v1.18.3)</h2>
 This lab demonstrates the preparation and setup of the required environment for installing osTicket v1.18.3 in a local XAMPP web server. The goal of this project is to simulate a real world IT help desk environment by configuring all prerequisitied neede for a successful osTicket deployment.
 
 
