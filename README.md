@@ -4,11 +4,8 @@
 </p>
 
 <h1>osTicket Prerequisites and Installation Lab(v1.18.3)</h2>
-This lab demonstrates the preparation and setup of the required environment for installing osTicket v1.18.3 in a local XAMPP web server. The goal of this project is to simulate a real world IT help desk environment by configuring all prerequisitied neede for a successful osTicket deployment.
-
-
-<h2>Purpose of the Lab</h2>
 The purpose of this lab is to build and configure the foundational environment required for osTicket. This includes setting up a local web server, database services, and required software dependencies to support a functional help desk ticketing system.
+
 
 <h2>Enviroment Setup</h2>
 
