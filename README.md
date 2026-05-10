@@ -1,4 +1,4 @@
-#osTicket Prerequisites and Installation Lab(v1.18.3)
+osTicket Prerequisites and Installation Lab(v1.18.3)
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
